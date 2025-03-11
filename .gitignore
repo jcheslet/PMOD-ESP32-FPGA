@@ -1,0 +1,5 @@
+# Remove Vivado project
+project/*
+
+# Remove doc
+documentation/*.pdf
